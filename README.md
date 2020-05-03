@@ -5,4 +5,4 @@ The move asked in the game is :- 2 numbers, first denoteing the tower from which
 
 ## How to play
 
-The Tower of Hanoi is a game in which the player has to transfer the tower in the left column to the right column./But only one disk can be moved at a time, and the player can not keep a larger disk on top of a smaller disk.
+The Tower of Hanoi is a game in which the player has to transfer the tower in the left column to the right column.But only one disk can be moved at a time, and the player can not keep a larger disk on top of a smaller disk.
